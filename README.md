@@ -1,5 +1,4 @@
 # Empanada-exchange
-![Build status](https://travis-ci.com/torswq/empanada-exchange.svg?branch=master)  
 ![Iso](img/empanada_exchange_iso.png)  
 
 Empanada exchange es un plugin de wordpress utilizado para obtener el valor actual del dolar y ejecutar acciones con este.
