@@ -43,7 +43,7 @@ in the database in order to use it as an ARS - USD value translator.
 	- A: I am having problems with [Wordpress HTTP-API](https://developer.wordpress.org/plugins/http-api/), if i do not use it, you can't upload your plugin.
   
 * Q: How do i use it?
-	- A: Simple, you must use the shortcode *`[get_exchange]` *and you will get the value of the dollar.  
+	- A: Simple, you must use the shortcode `[get_exchange]` and you will get the value of the dollar.  
   
 * Q: I keep getting `-1 (Plugin sin configurar)`
 	- A: This means that you must go to settings and select the source to retrieve the USD value in ARS. Currently i only code 1 source. (dolarsi.com)
@@ -65,7 +65,8 @@ what about the people who do not know english?
 1. ![Example number one on how to use this plugin](assets/screenshot-1.png)
 <br>
 ##### == Changelog ==
-= 0.1 =  
+  
+= 0.1 =<br>
 **First realease.**
   
 ###### == Upgrade Notice ==
