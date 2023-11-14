@@ -1,4 +1,5 @@
 <h1 align=center>[ARCHIVED]</h1>
+<p align=center>This was from back at my beginnings in web-development, I started working with PHP and WordPress development, but also knowed HTML5, CSS3 and JavaScript + AJAX at the time</p>
 <br>
 
 <h1 align=center> === Empanada exchange ===</h1>
