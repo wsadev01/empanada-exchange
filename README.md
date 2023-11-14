@@ -1,3 +1,6 @@
+<h1 align=center>[ARCHIVED]</h1>
+<br>
+
 <h1 align=center> === Empanada exchange ===</h1>
 <hr/>
 
